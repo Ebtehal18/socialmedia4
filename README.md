@@ -25,4 +25,4 @@ A feature-rich social application where users can interact with posts, manage pr
 - **[Material-UI (MUI)](https://mui.com/)**: For a responsive and visually appealing user interface.
 
 ## Live Demo
-Check out the live version of the app here: [Social App Live Demo](https://socialapp-duly.vercel.app/)
+Check out the live version of the app here: [Social App Live Demo](https://socialmedia4-99nq.vercel.app/)
